@@ -15,3 +15,4 @@ List of people who are working on closed loops:
 - Jayson EWER --Intel Edison w/ TI--cc1111
 - Frank Best
 - Boris and Kayley Raskin
+- Mitchell Slep and Tia Ghose
